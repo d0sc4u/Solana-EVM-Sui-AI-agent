@@ -73,7 +73,7 @@ If you have any questions or want the whole product including Backend part, plea
 
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
+### 📞 Telegram: [d0sc4u](https://t.me/d0sc4u)   
+https://t.me/d0sc4u
 
 Let me know if you'd like to tweak any section or add further customizations!
