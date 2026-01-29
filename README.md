@@ -2,6 +2,8 @@
 
 **EVM AI Agent** is an intelligent, natural-language interface for interacting with multiple EVM-compatible blockchains. It helps users execute transactions, deploy and verify contracts, check wallet balances, and more — all via friendly, chat-based interaction.
 
+<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/43941b6e-01d0-4625-9b96-b12fdbd93fda" />
+
 ---
 
 ## 🔥 Features
